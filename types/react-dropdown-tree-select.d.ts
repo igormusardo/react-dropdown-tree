@@ -1,5 +1,5 @@
 // tslint:disable:interface-name
-declare module 'react-dropdown-tree-select' {
+declare module 'react-dropdown-tree' {
   import * as React from 'react'
 
   export type TreeData = Object | TreeNodeProps[]
@@ -30,7 +30,7 @@ declare module 'react-dropdown-tree-select' {
      */
     showDropdown?: ShowDropdownState
     /** Additional classname for container.
-     * The container renders with a default classname of react-dropdown-tree-select
+     * The container renders with a default classname of react-dropdown-tree
      */
     className?: string
     /** Fires when a node change event occurs. Currently the following actions trigger a node change:

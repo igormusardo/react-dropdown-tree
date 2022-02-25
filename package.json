@@ -1,5 +1,5 @@
 {
-  "name": "react-dropdown-tree-select",
+  "name": "react-dropdown-tree",
   "version": "1.0.0-semantic-release",
   "description": "Lightweight, customizable and fast Dropdown Tree Select component for React",
   "keywords": [
@@ -7,7 +7,7 @@
     "tree-select",
     "dropdown",
     "dropdown-tree-select",
-    "react-dropdown-tree-select",
+    "react-dropdown-tree",
     "checkbox-tree",
     "checkbox-select",
     "checkbox-tree-select",
@@ -18,9 +18,9 @@
     "searchable",
     "search"
   ],
-  "main": "dist/react-dropdown-tree-select.js",
-  "types": "dist/react-dropdown-tree-select.d.ts",
-  "repository": "https://github.com/igormusardo/react-dropdown-tree-select.git",
+  "main": "dist/react-dropdown-tree.js",
+  "types": "dist/react-dropdown-tree.d.ts",
+  "repository": "https://github.com/igormusardo/react-dropdown-tree.git",
   "author": "Hrusikesh Panda <hrusikesh.panda@dowjones.com>",
   "license": "MIT",
   "scripts": {
